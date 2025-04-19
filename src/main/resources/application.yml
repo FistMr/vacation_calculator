@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: vacation_calculator
+
+holiday:
+  api:
+    url: "https://calendar.kuzyak.in/api/calendar/%d/holidays"
